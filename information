@@ -1,1 +1,23 @@
-
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>카피바라에 관하여</title>
+    <style>
+        body {
+            background-color: #f4f4f4;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #704324;
+        }
+    </style>
+</head>
+<body>
+    <h1>카피바라에 대한 정보</h1>
+    <p>카피바라는 세계에서 가장 큰 설치류입니다. 주로 남아메리카의 습지대와 강가에서 서식합니다.</p>
+    <p><a href="index.html">홈페이지로 돌아가기</a></p>
+</body>
+</html>
