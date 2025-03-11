@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML + CSS 예제</title>
+    <style>
+        body {
+            background-color: lightblue;
+            text-align: center;
+        }
+        h1 {
+            color: darkblue;
+        }
+    </style>
+</head>
+<body>
+    <h1>HTML과 CSS</h1>
+    <p>이 페이지는 CSS를 적용한 예제입니다.</p>
+</body>
+</html>
